@@ -25,8 +25,8 @@ The system uses several specialized agents:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/autogen-stories-generator.git
-cd autogen-stories-generator
+git clone https://github.com/huqianghui/AI-Stories-Generator.git
+cd AI-Stories-Generator
 ```
 
 2. Create a virtual environment:
